@@ -121,3 +121,6 @@ nbproject
 .sass-cache
 documentacion/backend
 documentacion/frontend
+
+
+public/*
