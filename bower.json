@@ -1,0 +1,21 @@
+{
+  "name": "coradent",
+  "description": "",
+  "main": "webpack.config.js",
+  "authors": [
+    "Felipe Uribe <wfpaisa@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://coradent.co",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
